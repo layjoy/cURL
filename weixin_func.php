@@ -6,7 +6,7 @@
 
 	//1、接收微信服务器get请求过来的4个参数
 
-	define("TOKEN","dudu");
+	define("TOKEN","duduloveme");
 	$echostr = $_GET['echostr'];//随机字符串
 
 	valid();
