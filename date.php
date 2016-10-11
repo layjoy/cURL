@@ -1,4 +1,7 @@
 <?php
+
+ echo 'success!';
+
  echo date('D').'<br/>';
 
 $value= 'something from somewhere';
